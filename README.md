@@ -24,4 +24,6 @@ Implemente uma função que receba um número inteiro positivo e retorne o somat
 
 ### Testar o código
 
-O código pode ser testado baixando a <a href="">release</a> e abrindo o arquivo index.html diretamente, <a href="">clicando aqui</a> ou escaneando o QRCode abaixo.
+O código pode ser testado baixando a <a href="https://github.com/tiagopinhotx/com.escribo.teste-tecnico01/releases/tag/test01">última release</a> e abrindo o arquivo index.html diretamente, <a href="https://tiagopinhotx.github.io/com.escribo.teste-tecnico01/">clicando aqui</a> ou escaneando o QRCode abaixo.
+
+<img title="Preview Teste Prático 01" href="https://tiagopinhotx.github.io/com.escribo.teste-tecnico01/" style="width: 200px" src="./assets/qrcode.png">
