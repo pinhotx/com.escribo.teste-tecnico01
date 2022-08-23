@@ -2,7 +2,7 @@ main{
     width: 300px;
     height: auto;
     margin: 15rem auto;
-
+    font-family: 'Roboto', sans-serif;
     padding: 0;
 }
 
@@ -15,6 +15,15 @@ footer{
     background-color: blueviolet;
     color: white;
     text-align: center;
+}
+
+footer p span{
+    font-size: 0.8rem;
+}
+
+footer p a{
+    color: lightgreen;
+    text-decoration: none;
 }
 
 h2{
